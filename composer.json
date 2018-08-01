@@ -1,0 +1,23 @@
+{
+    "name": "taichunmin/unit-20180731",
+    "description": "unit test class 20180731",
+    "type": "project",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taichunmin",
+            "email": "taichunmin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7.2",
+        "mockery/mockery": "^1.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
